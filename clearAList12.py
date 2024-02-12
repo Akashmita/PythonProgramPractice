@@ -10,5 +10,6 @@ list = [1,2,3,4]
 while (len(list)!=0):
     list.pop()
 print(list)
+print("Keep on going")
 
 
